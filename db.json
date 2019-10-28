@@ -1,15 +1,11 @@
-[
-	{
-		"id":1,
-		"name":"mother 270z",
-		"price":400.00
-	},
-	{
-		"id":2,
-		"name":"mother 350v",
-		"price":450.00
-
-	}
-
-
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
